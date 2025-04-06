@@ -1,6 +1,0 @@
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.csproj.AssemblyReference.cache
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.AssemblyInfoInputs.cache
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.AssemblyInfo.cs
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.csproj.CoreCompileInputs.cache
-/Users/jakubrajca/RiderProjects/EShopService/EShop.Application/obj/Debug/net9.0/EShop.Application.sourcelink.json
