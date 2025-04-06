@@ -10,13 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6b059872-7010-41c6-ae55-5fbaff896cf8")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("EShopService")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EShop.Application.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9a6045329859b2a98ecd1333d8e4510ac4b298")]
-[assembly: System.Reflection.AssemblyProductAttribute("EShopService")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EShopService")]
+[assembly: System.Reflection.AssemblyProductAttribute("EShop.Application.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EShop.Application.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
