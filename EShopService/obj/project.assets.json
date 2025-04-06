@@ -521,11 +521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/EShopService/EShopService/EShopService.csproj",
+      "projectUniqueName": "/Users/jakubrajca/RiderProjects/EShopService/EShopService/EShopService.csproj",
       "projectName": "EShopService",
-      "projectPath": "/Volumes/T7/EShopService/EShopService/EShopService.csproj",
+      "projectPath": "/Users/jakubrajca/RiderProjects/EShopService/EShopService/EShopService.csproj",
       "packagesPath": "/Users/jakubrajca/.nuget/packages/",
-      "outputPath": "/Volumes/T7/EShopService/EShopService/obj/",
+      "outputPath": "/Users/jakubrajca/RiderProjects/EShopService/EShopService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jakubrajca/.nuget/NuGet/NuGet.Config"

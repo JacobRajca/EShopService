@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZZNkCR0GfE=",
+  "dgSpecHash": "+pr5dsLgl74=",
   "success": true,
-  "projectFilePath": "/Volumes/T7/EShopService/EShopService/EShopService.csproj",
+  "projectFilePath": "/Users/jakubrajca/RiderProjects/EShopService/EShopService/EShopService.csproj",
   "expectedPackageFiles": [
     "/Users/jakubrajca/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/jakubrajca/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
